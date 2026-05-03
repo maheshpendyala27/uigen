@@ -7,3 +7,5 @@ Here's how:
 3)Review the generated component and source code
 4)Identify areas of improvement
 5)Update the prompt to produce better component
+
+For now only evaluate visual styling aspects.we dont want components generated that look like typical tailwind css components. we want something more original.
